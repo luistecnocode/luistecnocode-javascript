@@ -1,3 +1,6 @@
+// PARA UTILIZAR EL CURSO CON VSCODE
+// INSTALAR NODE.JS
+
 // Esto es un comentario simple
 
 /*
